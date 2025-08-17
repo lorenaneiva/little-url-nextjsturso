@@ -6,7 +6,7 @@ export default async function Page() {
       <div className="pb-6 text-center">
         <h1 className="text-3xl font-black tracking-tight text-white">Todos</h1>
         <p className="text-white/60">
-          The todos you add below are created inside your own database.
+          Little Url! Shorten your URL.
         </p>
       </div>
       <Todos />
